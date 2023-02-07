@@ -1,3 +1,3 @@
-project = "practice-377017"
+project = "terraform-377105"
 
  
